@@ -327,6 +327,8 @@ a:hover {
     float: left;
     margin-top: 4px;
     font-size: 16px;
+    list-style-type: none;
+    margin-left: 15px;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -367,7 +369,7 @@ a:hover {
     .site-navigation {
         position: absolute;
         top: 50%;
-        right: 20px;
+        right: 80px;
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
     }
