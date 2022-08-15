@@ -792,6 +792,9 @@ h4 {
 
 .ltc-white {
     color: #FFFFFF!important;
+    font-weight: 400;
+    background-color: #C35532;
+    padding: 5px;
 }
 
 .ltc-white:hover {
